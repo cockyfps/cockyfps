@@ -6,7 +6,7 @@ Game dev • FiveM (Lua) • C++ learner • Streamer
 - 🎮 I design multiplayer systems, small game tools and Sites.  
 - 🌱 Currently learning: C++, C# and shader basics.  
 - 📺 Streaming as **CockyFPS** — chill FPS, elden ring, Ghost of Tsushima and dev sessions.  
-- 📫 Reach: Discord `cockyfps` • No Mail• [Twitch](https://www.twitch.tv/cockyfps)
+- 📫 Reach: Discord `cockyfps` • No Mail 
 ---
 
 ### What I focus on
