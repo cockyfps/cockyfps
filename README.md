@@ -34,5 +34,3 @@ If you like clean tools and practical code, hit follow. I will post small, usefu
 ![CockyFPS's GitHub stats](https://github-readme-stats.vercel.app/api?username=cockyfps&show_icons=true&theme=tokyonight)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cockyfps&layout=compact&theme=tokyonight)  
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=cockyfps&theme=tokyonight&no-frame=true&row=1&column=6)
