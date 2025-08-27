@@ -27,4 +27,12 @@ Game dev • FiveM (Lua) • C++ learner • Streamer
 
 If you like clean tools and practical code, hit follow. I will post small, useful projects and stream dev sessions.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/USER_ID?theme=dark&bg=23272A&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20coding%20or%20gaming...)](https://discord.com/users/1282709324908593305)
+### Discord Presence
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=23272A&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Probably%20coding%20or%20gaming...)](https://discord.com/users/1282709324908593305)
+
+### CockyFPS [Ayden]'s GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&margin-w=15&margin-h=15)
