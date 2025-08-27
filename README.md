@@ -27,8 +27,6 @@ Game dev • FiveM (Lua) • C++ learner • Streamer
 
 If you like clean tools and practical code, hit follow. I will post small, useful projects and stream dev sessions.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1282709324908593305)](https://discord.com/users/1282709324908593305)
-
 ---
 
 ## CockyFPS [Ayden]'s GitHub Stats  
