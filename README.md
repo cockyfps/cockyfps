@@ -32,5 +32,3 @@ If you like clean tools and practical code, hit follow. I will post small, usefu
 ## CockyFPS [Ayden]'s GitHub Stats  
 
 ![CockyFPS's GitHub stats](https://github-readme-stats.vercel.app/api?username=cockyfps&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cockyfps&layout=compact&theme=tokyonight)  
